@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string name="Select_application">Seleccione Aplicacción</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
